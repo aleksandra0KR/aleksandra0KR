@@ -21,8 +21,7 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 <br>
-<br>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=aleksandra0KR&theme=dark)](https://github.com/aleksandra0KR/LeetCode)
+<p align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aleksandra0KR&theme=solarized_dark)
-
+</p>
